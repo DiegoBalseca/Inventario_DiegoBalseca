@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 390c4cd21ebc6054d8385d363122abe0, type: 3}
   m_Name: Spanish
   m_EditorClassIdentifier: 
-  text1: 
-  text2: 
-  text3: 
-  text4: 
+  text1: Jugar
+  text2: Opciones
+  text3: "Cr\xE9ditos"
+  text4: Salir

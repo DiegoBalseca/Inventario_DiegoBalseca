@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 390c4cd21ebc6054d8385d363122abe0, type: 3}
   m_Name: English
   m_EditorClassIdentifier: 
-  text1: 
-  text2: 
-  text3: 
-  text4: 
+  text1: Play
+  text2: Options
+  text3: Credits
+  text4: Exit
