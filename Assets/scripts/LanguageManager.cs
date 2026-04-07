@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class LanguageManager : MonoBehaviour
 {
-    public Text[] texts; // los 4 textos de la UI
+    public Text[] texts; 
 
     public void ChangeLanguage(ScriptableLanguage language)
     {

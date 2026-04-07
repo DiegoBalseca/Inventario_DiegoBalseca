@@ -10,7 +10,7 @@ public class Interactableitem : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    
     void Start()
     {
         //spriteRenderer.sprite = item.itemSprite;

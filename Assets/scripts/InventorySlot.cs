@@ -14,7 +14,7 @@ public class InventorySlot : MonoBehaviour
 
     public Button deleteButton;
     public Button closeButton;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    
     void Start()
     {
         thisSlotButton = GetComponentInChildren<Button>();
