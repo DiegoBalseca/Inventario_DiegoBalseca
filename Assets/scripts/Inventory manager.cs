@@ -18,9 +18,9 @@ public class Inventorymanager : MonoBehaviour
     }
     
     public ScriptableItem[] items;
-    public Text[] ItemsNames;
+    public Text[] ItemsNames; 
     public Image[] ItemsImage;
-    public InventorySlot[] itemSlots;
+    public InventorySlot[] itemSlots; // esto no hace falta 
 
     public void AddItem(ScriptableItem item)
     {
